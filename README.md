@@ -40,10 +40,10 @@ This project uses **Terraform (Infrastructure as Code)** to automatically provis
 ## Deployment Verification
 
 ### 1. Terraform Apply Output
-![Terraform Apply](1-terraform-apply.png)
+![Terraform Apply](Screenshots/1-terraform-apply..png)
 
 ### 2. Private Blob Containers
-![Blob Containers](2-blob-containers.png)
+![Blob Containers](Screenshots/2-blob-containers.png)
 
 ### 3. Automated Lifecycle Management Policy
-![Lifecycle Policy](3-lifecycle-policy.png)
+![Lifecycle Policy](Screenshots/3-lifecycle-policy.png)
