@@ -2,6 +2,10 @@
 
 This project uses **Terraform (Infrastructure as Code)** to automatically provision a secure, cost-optimized **Azure Blob Storage** environment. Instead of manual portal configuration, all resources, security policies, and automated data lifecycle rules are defined declaratively in code.
 
+## Architecture Diagram
+![Architecture Diagram](Screenshots/Architecture%20Diagram_TB.jpg)
+
+
 ## Architecture & Features
 
 - **Infrastructure as Code (IaC):** Modular Terraform setup (`main.tf`, `variables.tf`, `outputs.tf`) for repeatable, error-free deployments.
